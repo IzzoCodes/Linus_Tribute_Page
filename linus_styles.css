@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: lightsalmon;
+}
+
+p{
+    color: navy;
+    text-shadow: 1px 1px 1px pink ;
+}
+
+li{
+    color: navy;
+    text-shadow: 1px 1px 1px yellowgreen;
+}
+
+cite{
+    background-color: wheat;
+    color: violet;
+}
+
+a{
+    color: salmon;
+}
